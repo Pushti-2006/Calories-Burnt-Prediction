@@ -15,9 +15,14 @@ This machine learning project predicts the number of calories burnt based on inp
 - Pandas, NumPy, Matplotlib
 - Scikit-learn
 
+## 🚀 Run on Google Colab
+Click to open and run the notebook:  
+[👉 Open in Google Colab](https://colab.research.google.com/drive/1OnE3TiA2_t-JMoyMYEzIGvY0T9sZxyNY)
+
 ## ✅ Status
 Project Completed ✅  
 Planned: Web app conversion using Streamlit
+
 
 
 
